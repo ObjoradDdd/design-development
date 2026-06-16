@@ -1,0 +1,8 @@
+port: 8080
+target_url: "http://localhost:8081"
+zstd_level: 3
+gzip_level: 5
+ttl: 300s
+cache_type: "disk"
+max_memory_mb: 200
+log_level: "info"
